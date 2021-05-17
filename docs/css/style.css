@@ -10469,7 +10469,7 @@ body .container-fluid {
   position: absolute;
   top: 0;
   right: 0;
-  height: 100vh;
+  height: 480px;
   width: 100%;
   display: flex !important;
   flex-flow: column;
