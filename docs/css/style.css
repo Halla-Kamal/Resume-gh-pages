@@ -10462,6 +10462,7 @@ body .container-fluid {
   background-position: center center;
   background-size: cover;
   height: 100vh;
+  max-height: 600px;
   overflow: hidden;
 }
 .header .header-img .header-overlay {
@@ -10469,7 +10470,7 @@ body .container-fluid {
   position: absolute;
   top: 0;
   right: 0;
-  height: 480px;
+  height: 100vh;
   width: 100%;
   display: flex !important;
   flex-flow: column;
