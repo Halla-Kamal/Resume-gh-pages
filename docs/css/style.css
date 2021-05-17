@@ -10461,8 +10461,7 @@ body .container-fluid {
   background-image: url(../images/header1.jpg);
   background-position: center center;
   background-size: cover;
-  height: 100vh;
-  max-height: 600px;
+  height: 580px;
   overflow: hidden;
 }
 .header .header-img .header-overlay {
@@ -10470,7 +10469,7 @@ body .container-fluid {
   position: absolute;
   top: 0;
   right: 0;
-  height: 100vh;
+  height: 580px;
   width: 100%;
   display: flex !important;
   flex-flow: column;
